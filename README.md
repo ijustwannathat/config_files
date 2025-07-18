@@ -1,6 +1,6 @@
-----------
+
 # Welcome fellow linux user
 ----------
 ## These files are a gathering of important little configs that do not require a dedicated repo due to their content size.
 ----------
-### this kitty.conf file needs to be put into the `.config/kitty` folder
+### This kitty.conf file needs to be put into the `.config/kitty` folder
