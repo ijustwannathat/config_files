@@ -4,5 +4,5 @@
 ----------
 ### This `kitty.conf` file needs to be put into the `.config/kitty` folder
 ```shell
-sudo cp Programming/configs/kitty.conf .config/kitty
+sudo cp Programming/config_files/kitty.conf .config/kitty
 ```
