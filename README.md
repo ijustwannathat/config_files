@@ -6,3 +6,7 @@
 ```shell
 sudo cp Programming/config_files/kitty.conf .config/kitty
 ```
+
+
+
+
