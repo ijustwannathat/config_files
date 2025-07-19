@@ -1,0 +1,6 @@
+astro-language-server, bash-language-server, black, cucumber-language-server,
+curlylint, django-template-lsp, djlint, dockerfile-language-server, elixir-ls,
+emmylua_ls, eslint-lsp, gopls, html-lsp, isort, jdtls, json-lsp,
+kotlin-language-server, lua-language-server, marksman, prettier, prettierd,
+pyment, pyright, python-lsp-server, ruff, rust-analyzer, stylua,
+tailwindcss-language-server, tflint
